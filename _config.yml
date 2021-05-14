@@ -1,6 +1,7 @@
 ---
 title: "Your blog post title"
 date: YYYY-MM-DD
+
 ---
 author: Maximilian van Zyl
 email: nochanceyoureseeingmyemaillol@domain.com
@@ -13,4 +14,3 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
